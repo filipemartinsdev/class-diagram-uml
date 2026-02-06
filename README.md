@@ -2,7 +2,6 @@
 
 Este repositório compila conhecimentos necessários para ler e desenvolver um **diagrama de classes UML**.
 
-
 <img src="src/main/resources/images/setas.png" width="300pt">
 
 
@@ -25,3 +24,9 @@ Este repositório compila conhecimentos necessários para ler e desenvolver um *
 
 - [IBM - Diagrama de classes UML](https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=structure-class-diagrams)
 - [IBM - Relacionamentos em diagramas de classe UML](https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-class)
+
+
+---
+
+
+_Te judou? Dá uma **estrela**! ⭐_
