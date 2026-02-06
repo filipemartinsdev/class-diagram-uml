@@ -22,27 +22,36 @@ Observe as imagens abaixo para melhor entendimento.
 
 ## Tipos de classe
 
-- Classe
+- **Classe**
 
     Esse é o tipo padrão, que representa uma classe comum. 
 
-  <img src="../../resources/images/classe.png" width="300pt">
-    
 
-- Interface
+  <img src="../../resources/images/classe.png" width="300pt">
+   
+
+---
+
+
+- **Interface**
     
     Uma interface é somente o contrato de uma classe, sem atributos, somente métodos abstratos públicos.
+
 
   <img src="../../resources/images/interface.png" width="300pt">
 
 
-- Enum
+---
+
+
+- **Enum**
     
     Esse tipo é utilizado para manter uma lista de valores imutáveis.
+
 
   <img src="../../resources/images/enum.png" width="300pt">
 
 
 
 
-### [Próximo (Associação bidirecional)](../associacao_bidirecional/ASSOCIACAO_BIDIRECIONAL.md)
+### [Próximo (Associações)](../associacoes/ASSOCIACOES.md)
