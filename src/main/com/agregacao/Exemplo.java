@@ -1,6 +1,6 @@
 package main.com.agregacao;
 
-class Pesso {
+class Pessoa {
     public String nome;
     public Acessorio acessorio;
 }

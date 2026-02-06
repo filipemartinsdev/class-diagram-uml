@@ -18,7 +18,7 @@ Utilize quando uma classe pertence a um **todo**, porém, pode existir sem o **t
 
 
 ````java
-class Pesso {
+class Pessoa {
     public String nome;
     public Acessorio acessorio;
 }
