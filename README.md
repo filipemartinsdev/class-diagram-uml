@@ -16,9 +16,9 @@ Este repositório compila conhecimentos necessários para ler e desenvolver um *
    4. [Herança](src/main/com/heranca/HERANCA.md)
    5. [Implementação](src/main/com/implementacao/IMPLEMENTACAO.md)
    6. [Composição](src/main/com/composicao/COMPOSICAO.md)
-   7. [Agregação](src/main/com/agregacao/AGRECACAO.md)
+   7. [Agregação](src/main/com/agregacao/AGREGACAO.md)
 3. [Multiplicidade](src/main/com/multiplicidade/MULTIPLICIDADE.md)
-4. [Pacores](src/main/com/pacotes/PACOTES.md)
+4. [Pacotes](src/main/com/pacotes/PACOTES.md)
 
 
 ## Referências
