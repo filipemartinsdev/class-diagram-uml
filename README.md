@@ -2,11 +2,9 @@
 
 Este repositório compila conhecimentos necessários para ler e desenvolver um **diagrama de classes UML**.
 
----
 
 <img src="src/main/resources/images/setas.png" width="400pt">
 
----
 
 ## Índice
 
@@ -18,7 +16,6 @@ Este repositório compila conhecimentos necessários para ler e desenvolver um *
 6. [Composição](src/main/com/composicao)
 7. [Agregação](src/main/com/agregacao)
 
----
 
 ## Referências
 
