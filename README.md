@@ -8,13 +8,13 @@ Este repositório compila conhecimentos necessários para ler e desenvolver um *
 
 ## Índice
 
-1. [Associação bidirecional](src/main/com/associacao_bidirecional)
-2. [Associação unidirecional](src/main/com/associacao_unidirecional)
-3. [Dependência](src/main/com/dependencia)
-4. [Herança](src/main/com/heranca)
-5. [Implementação](src/main/com/implementacao)
-6. [Composição](src/main/com/composicao)
-7. [Agregação](src/main/com/agregacao)
+1. [Associação bidirecional](src/main/com/associacao_bidirecional/ASSOCIACAO_BIDIRECIONAL.md)
+2. [Associação unidirecional](src/main/com/associacao_unidirecional/ASSOCIACAO_UNIDIRECIONAL.md)
+3. [Dependência](src/main/com/dependencia/DEPENDENCIA.md)
+4. [Herança](src/main/com/heranca/HERANCA.md)
+5. [Implementação](src/main/com/implementacao/IMPLEMENTACAO.md)
+6. [Composição](src/main/com/composicao/COMPOSICAO.md)
+7. [Agregação](src/main/com/agregacao/AGRECACAO.md)
 
 
 ## Referências
