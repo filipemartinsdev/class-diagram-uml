@@ -2,7 +2,7 @@
 
 # Associação unidirecional
 
-Representada por uma linha sólida com seta na extremidade, significa uma classe conhece a outra, mas não o contrário.
+Representada por uma linha sólida com seta na extremidade, significa que uma classe conhece a outra, mas não o contrário.
 
 ## Símbolo
 
