@@ -51,7 +51,7 @@ Observe as imagens abaixo para melhor entendimento.
 
   <img src="../../resources/images/enum.png" width="300pt">
 
-
+> Nota: métodos construtores padrões (público e sem argumentos/todos os argumentos) não são obrigatórios na modelagem UML.
 
 
 ### [Próximo (Associações)](../associacoes/ASSOCIACOES.md)

@@ -2,7 +2,7 @@
 
 # Associação bidirecional
 
-Representada por uma linha reta, significa que ambas as classes se conhecem.
+Representada por uma linha sólida, significa que ambas as classes se conhecem.
 A relação pode ser tanto ao nível de Classe, quanto instância.
 
 ## Símbolo
@@ -13,7 +13,7 @@ A relação pode ser tanto ao nível de Classe, quanto instância.
 
 Utilize quando ambas as classes se conhecem (armazenam referência uma da outra).
 
-### Exemplo
+## Exemplo
 
 <img src="/src/main/resources/images/exemplo_associacao_bidirecional.png" width="600pt">
 
@@ -31,4 +31,4 @@ class Cubiculo {
 ````
 [Acessar código](Exemplo.java)
 
-### [Próximo (Associação unidirecional)](../associacao_bidirecional/ASSOCIACAO_BIDIRECIONAL.md)
+### [Próximo (Associação unidirecional)](../associacao_unidirecional/ASSOCIACAO_UNIDIRECIONAL.md)
