@@ -8,7 +8,9 @@ Este repositório compila conhecimentos necessários para ler e desenvolver um *
 
 ## Índice
 
-1. [Associação bidirecional](src/main/com/associacao_bidirecional/ASSOCIACAO_BIDIRECIONAL.md)
+
+1. [Introdução](src/main/com/introducao/INTRODUCAO.md)
+2. [Associação bidirecional](src/main/com/associacao_bidirecional/ASSOCIACAO_BIDIRECIONAL.md)
 2. [Associação unidirecional](src/main/com/associacao_unidirecional/ASSOCIACAO_UNIDIRECIONAL.md)
 3. [Dependência](src/main/com/dependencia/DEPENDENCIA.md)
 4. [Herança](src/main/com/heranca/HERANCA.md)

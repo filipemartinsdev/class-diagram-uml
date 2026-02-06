@@ -1,3 +1,5 @@
+### [Índice](../../../../README.md)
+
 # Associação bidirecional
 
 Representada por uma linha reta, significa que ambas as classes se conhecem.
@@ -9,7 +11,7 @@ A relação pode ser tanto ao nível de Classe, quanto instância.
 
 ## Quando usar
 
-Utilize quando ambas as classes se conhecem.
+Utilize quando ambas as classes se conhecem (armazenam referência uma da outra).
 
-## Exemplo
+### Exemplo
 

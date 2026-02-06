@@ -1,4 +1,4 @@
-# Agrecação
+# Agregação
 
 ## Símbolo
 
