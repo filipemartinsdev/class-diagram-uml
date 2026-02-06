@@ -11,7 +11,7 @@ Toda classe possui três campos:
 - Atributos
 - Métodos
 
-Ao descrever um atributo ou método, você pode utilizar os prefixos "+" ou "-" para indicar **modificadores de acesso** **público** ou **privado**, respectivamente.
+Ao descrever um atributo ou método, você pode utilizar os prefixos **"+"** ou **"-"** para indicar modificadores de acesso **público** ou **privado**, respectivamente.
 Observe as imagens abaixo para melhor entendimento.
 
 
