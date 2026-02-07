@@ -6,7 +6,7 @@ Em muitos casos, somente o relacionamento não é claro o suficiente. Para isso,
 
 As notações de multiplicidade ficam nas extremidades dos símbolos de Associação.
 
-<img src="src/main/resources/images/multiplicidade.png" width="400pt">
+<img src="/src/main/resources/images/multiplicidade.png" width="400pt">
 
 _"Um B possui vários A"_
 
