@@ -33,20 +33,20 @@ A notação de multiplicidade fica sempre ao lado da classe que o representa.
 
 ## Exemplos
 
-<img src="src/main/resources/images/exemplo_multiplicidade_1.png" width="300pt">
+<img src="/src/main/resources/images/exemplo_multiplicidade_1.png" width="300pt">
 
 **Um** professor pode agregar **múltiplas** disciplinas
 
 
 ---
 
-<img src="src/main/resources/images/exemplo_multiplicidade_2.png" width="300pt">
+<img src="/src/main/resources/images/exemplo_multiplicidade_2.png" width="300pt">
 
 Uma String possui **múltiplos** Chars
 
 --- 
 
-<img src="src/main/resources/images/exemplo_multiplicidade_3.png" width="300pt">
+<img src="/src/main/resources/images/exemplo_multiplicidade_3.png" width="300pt">
 
 **Uma** pessoa pode ser agregada por **nenhum ou múltiplos** acessórios.  
 
