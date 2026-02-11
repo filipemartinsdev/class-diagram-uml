@@ -56,7 +56,11 @@ Uma String possui **múltiplos** Chars
 
 De acordo com as especificações para UML, a multiplicidade no lado do "todo" em composições é implicitamente 0..1 ou 1, então alguns arquitetos simplificam a visualização.
 
-Vale resaltar que algumas ferramentas de modelagem, como o JHipster, permitem que a multiplicidade seja simplificada. No entanto, é importante lembrar que a multiplicidade é uma parte fundamental da modelagem de classes e deve ser explicitamente definida para garantir a clareza do modelo.
+exemplo:
+
+<img src="/src/main/resources/images/exemplo_observacao_multiplicidade.png" width="300pt">
+
+Vale resaltar que algumas ferramentas de modelagem, como o **JDL-Studio**, permitem que a multiplicidade seja simplificada. No entanto, é importante lembrar que a multiplicidade é uma parte fundamental da modelagem de classes e deve ser explicitamente definida para garantir a clareza do modelo.
 
 
 ### [Próximo (Pacotes)](../pacotes/PACOTES.md)
