@@ -30,4 +30,4 @@ Este repositório compila conhecimentos necessários para ler e desenvolver um *
 ---
 
 
-_Te judou? Dá uma **estrela**! ⭐_
+_Te ajudou? Dá uma **estrela**! ⭐_
