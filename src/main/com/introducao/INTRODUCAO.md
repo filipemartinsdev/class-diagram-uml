@@ -7,7 +7,7 @@ Antes de modelar relacionamentos, é necessário entender a sintaxe básica e co
 ## Estrutura padrão
 
 Toda classe possui três campos:
-- Título
+- Cabeçalho
 - Atributos
 - Métodos
 
