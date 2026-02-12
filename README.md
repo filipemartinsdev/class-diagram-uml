@@ -22,6 +22,7 @@ Este repositório compila conhecimentos necessários para ler e desenvolver um *
 
 ## Referências
 
+- [OMG - Documentação oficial UML](https://www.uml-diagrams.org/class-reference.html)
 - [IBM - Diagrama de classes UML](https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=structure-class-diagrams)
 - [IBM - Relacionamentos em diagramas de classe UML](https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-class)
 
